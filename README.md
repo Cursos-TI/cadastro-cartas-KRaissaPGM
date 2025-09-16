@@ -18,20 +18,20 @@ Cada país será dividido em oito estados, identificados pelas letras de A a H. 
 ### 🚩 Objetivo:
 - Criar cartas representando cidades, contendo as seguintes propriedades:
   - **População**
-  - **Área**
-  - **PIB**
-  - **Número de pontos turísticos**
-  
-### ⚙️ Funcionalidades do Sistema:
-- O sistema permitirá ao usuário cadastrar cartas de cidades, inserindo manualmente os dados via terminal de comando.
-- Após o cadastro, o sistema exibirá os dados de cada cidade de forma clara e organizada.
+    - **Área**
+      - **PIB**
+        - **Número de pontos turísticos**
+          
+          ### ⚙️ Funcionalidades do Sistema:
+          - O sistema permitirá ao usuário cadastrar cartas de cidades, inserindo manualmente os dados via terminal de comando.
+          - Após o cadastro, o sistema exibirá os dados de cada cidade de forma clara e organizada.
 
-### 📥 Entrada e 📤 Saída de Dados:
-- O usuário insere os dados de cada carta interativamente.
-- Após o cadastro, os dados são exibidos com todas as propriedades da cidade, uma por linha.
+          ### 📥 Entrada e 📤 Saída de Dados:
+          - O usuário insere os dados de cada carta interativamente.
+          - Após o cadastro, os dados são exibidos com todas as propriedades da cidade, uma por linha.
 
----
-
+          ---
+          
 ## 🛡️ Nível Aventureiro
 
 No nível Aventureiro, você expandirá o sistema para incluir propriedades calculadas, permitindo uma análise mais detalhada das cartas.
